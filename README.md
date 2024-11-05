@@ -1,44 +1,28 @@
-# Simple Developer Portfolio Template
+Descripción
+Este es un portafolio simple pero elegante, diseñado para ser adaptable y construido con JavaScript, HTML y CSS básicos. Permite a cualquier desarrollador crear rápidamente un sitio personal de portafolio y es fácil de personalizar. A continuación, encontrarás información detallada sobre sus características y cómo utilizar esta plantilla.
 
-![Project Preview](portfolio_preview.jpg)
+Tabla de Contenidos
+Características
+Vista en Vivo
+Uso
+Por Hacer
+Licencia
+Acerca de Mí
+¡Hola! Soy Daniel de la Rosa, estudiante de Ingeniería en Sistemas y programador backend. Esta plantilla me permite mostrar mi trabajo y proyectos de una manera clara y profesional, reflejando mi pasión por el desarrollo de software y el aprendizaje constante. Si deseas ver más de mi trabajo, ¡te invito a explorar este portafolio!
 
-## Description
+Características
+Diseño adaptable: Se ajusta a diferentes tamaños de pantalla.
+Diseño de una sola página: Navegación fluida en una sola vista.
+Sencillo y personalizable: Fácil de ajustar a las necesidades de cada usuario.
+Vista en Vivo
+Mira una vista en vivo del Portafolio de Desarrollador Simple aquí.
 
-This is a very simple, but elegant responsive portfolio template built using plain JavaScript, HTML, and CSS. It’s designed to be easily customizable, allowing any developer to quickly create a personal portfolio site. Below you'll find detailed information about the features and how to use this template.
 
-## Table of Contents
 
-- [Features](#features)
-- [Live Preview](#live-preview)
-- [Usage](#usage)
-- [Todo](#todo)
-- [License](#license)
 
-## Features
-
-- **Responsive Design**
-- **Single-page layout**
-- **Simple and customizable**
-
-## Live Preview
-
-Check out the live preview of the Simple Developer Portfolio [here](https://hhlitval.github.io/simple-portfolio-template).
-
-## Usage
-
-To use this template, follow these steps:
-
-1. **Clone the Repository**: 
-    ```bash
-    git clone https://github.com/hhlitval/simple-portfolio-template.git
-    ```
-2. **Customize the Content**
-3. **Deploy**.
-
-## Todo
-
-- **Contact Form**: Implement the functionality to send messages from the contact form. You can use an email service or integrate with a backend solution.
-
-## License
-
-This project is licensed under the MIT License.
+Personaliza el Contenido: Modifica el texto, las imágenes y otros elementos para adaptarlos a tu perfil.
+Despliega el Portafolio: Puedes subirlo a un servidor o utilizar servicios como GitHub Pages.
+Por Hacer
+Formulario de Contacto: Implementar la funcionalidad para enviar mensajes desde el formulario de contacto. Puedes utilizar un servicio de correo o integrar una solución backend.
+Licencia
+Este proyecto está licenciado bajo la Licencia MIT.
