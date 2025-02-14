@@ -147,6 +147,8 @@ h5 {
   justify-content: space-between;
   align-items: center;
   padding: 0 25px;
+  padding-left: 80px;
+  padding-right: 80px;
   height: 90px;
 }
 
@@ -196,7 +198,7 @@ h5 {
 /* Hero section */
 .hero {
   position: relative;
-  padding-top: 180px;
+  padding-top: 120px;
   background-color: var(--primary-bg-color);
 }
 
@@ -209,6 +211,8 @@ h5 {
   text-align: left;
   align-self: center;
   padding: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
   flex-grow: 1;
 }
 
@@ -235,6 +239,7 @@ h5 {
 .hero-img {
   display: flex;
   flex: 1 1 356px;
+  padding-top: 20px;
   justify-content: flex-end;
   margin-top: auto;
 }
@@ -381,6 +386,7 @@ h5 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 20px;
 }
 
 .project-box {
